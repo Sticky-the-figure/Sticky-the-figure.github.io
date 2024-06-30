@@ -1,8 +1,8 @@
-
 body{background-color: rgb(24, 242, 184);text-align: center;}
 h2{border: solid 12px rgb(224, 102, 46);color: rgb(71, 15, 224);}
 h1{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;color: rgb(226, 234, 231);}
 img{border-radius: 200px;}
 .purple-element{color: rgb(233, 17, 139);border: solid 5px rgb(226, 2, 81) ;background-color: rgb(26, 153, 153);}
-p{padding: 15px 90px 10px 10px;background-color: blanchedalmond;border-radius: 15px;}
+.kablooy-element{padding: 15px 90px 10px 10px;background-color: blanchedalmond;border-radius: 15px;}
+.goodbye-element{padding: 15px 90px 10px 10px;background-color: rgb(255, 205, 247);border-radius: 15px;}
 
